@@ -10,3 +10,4 @@ while flat == True:
         print("Enter your name again")
 
 print("Hello " + name)
+print("I think the link is done")
